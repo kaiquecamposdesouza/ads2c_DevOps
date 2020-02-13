@@ -1,0 +1,3 @@
+escopo (necessidade do cliente):
+	a empresa 'X' precisa desenvolver o carro voador.
+	
