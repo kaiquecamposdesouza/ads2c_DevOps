@@ -1,0 +1,5 @@
+Analise 
+
+Para a criação do sistema de um carro voador para viagens rápidas que custem até 10 dólares temos que o sistema deve informar sua localização para o usuário saber onde o veículo está.
+o sistema deve ter um controle de altura máxima e mínima, além de um controle de segurança tanto para o reconhecimento de passageiros como parâmetros de segurança aéreos. o mesmo deve ter parâmetros de pagamento e serviços de geolocalização.
+deve ter controle de energia e tráfego de 16 km por viagem, além do controle de navegação e limite de peso.
