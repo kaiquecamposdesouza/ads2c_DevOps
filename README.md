@@ -1,2 +1,4 @@
 # ads2c_DevOps
-preparo para ac1
+Ac 1
+Nome: João Vitor Jacob oliveira; RA: 1901747. 
+Nome: Kaique Campos De Souza; RA: 1902399.
