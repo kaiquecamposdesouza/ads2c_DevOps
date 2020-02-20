@@ -1,0 +1,6 @@
+Desingn
+
+Para o sistema de geolocalização deve ser composto por grafo s baseados no conceito matemático de interpolação.
+Para a criação do sistema de altura utilizar um acelerômetro para dar sentido de espaço e sensores de proximidade para a orientação de vôo.
+O sistema de segurança deve ser fundamentais e todas as regras de voo para pequenas aéronaves tripuladas ou não previstas pela ANAC ou um outroórgão regulamentador.
+Para o sistema de pagamentos com análises de empresas bancárias com bandeiras para realização de transações, caso o usuário queira pagar o serviçoem espécie, deve haver um sistema auxíliar com sensores e validações das notas.  

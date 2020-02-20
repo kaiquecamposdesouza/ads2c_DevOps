@@ -1,0 +1,7 @@
+Codificação
+A codificação vai se basear em python devido ao aprendizado durante as aula e depois utilizaremos outros recursos de acordo com a necessidade.
+
+Sistema do carro: Terá todo um controle de geolocalizacão além de controle de tráfego e segurança para garantir a integridade do passageiro, além de uma integração do sistema que será utilizado em favor do usuário, para controlar as formas de pagamento, necessidades e viabilizar a viagem para com o passageiro.
+
+Sistema utilizado pelo usuário: faremos uma aplicação nele para mobile, assim temos uma boa integração com os aplicativos de celulares e será possível ver toda a parte de localização do carro.
+Pagamento e gerenciamento da viagem serão feitos no aplicativo também.
