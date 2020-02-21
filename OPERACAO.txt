@@ -1,0 +1,3 @@
+Operação
+Após os teste começaremos de forma amenizada com viagens mais curtas até 7Km e assim progredindo sucessivamente para o limite desejado, acompanhamos o desempenho e funcionalidade do programa assim qualquer ocorrência ou ou erros que venhamos a ter, podermos corrigir de maneira rápida e eficaz para solução do problema.
+Pensando de maneira futurista trabalharemos para viabilizar tanto o custo quanto o percurso para uma viagem mais longa, segura e com uma excelente integridade tanto para o veículo quanto o usuário.
