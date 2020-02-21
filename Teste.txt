@@ -1,0 +1,11 @@
+Teste
+
+Para realizarmos os teste nos sistemas temos que dividi-los em operações como descritas nos passos anteriores.
+
+Para testarmos o sistema de localização faremos uma sequência de teste de proximidade desde distâncias curtas até quilômetros de distâncias, o algoritmo deve prever qual a localização mais próxima do usuário se encontrar com o veículo, assim orientado o usuário até aquele local.
+
+Os teste do sistema de acelerômetro testamos medidas tabeladas de inclinação e o tempo de resposta do equipamento. Para os sensores de altura vamos comprar de fornecedores homologados e que seus produtos tem laudo de garantia para nossas aplicações. No sistema de seguranças iremos utilizar normas e regulamentos da ANAC (agência nacional de aviação civil).
+
+Para o sistema de pagamento devemos fazer testes de contratação do carro com vários "clientes fictícios" e em testes exaustivos de transferências bancárias. Para sistema de "troco" deve-se testar o invólucro com tentativas de arrombamento, desde ferramentas para abrir fechaduras até pequenos explosivos e por fim simular compras com reembolso de valores alternados até 50 dólares. 
+
+Para o sistema de energia iremos testar fazendo a bateria chegar a 20% e acionado o sistema de carga através das placas fotovoltaicas. Provocando falhas no sistema fotovoltaicas para acionar o sistema de combustível reserva testando o sistema de 50 á 100 vezes ininterruptas.
